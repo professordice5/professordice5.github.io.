@@ -1,0 +1,385 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="professordice.xyz" resolutions="1x,2x" timestamp="1496890924665">
+  <folder name="css">
+    <file name="site_global.css" crc="104998736"/>
+    <file name="master_professordice-master.css" crc="4010690669" ref="index:snpahcat:releases"/>
+    <file name="master_complicated-dice-music-master.css" crc="111572994" ref="complicated-dice-contact"/>
+    <file name="master_complicated-dice-master.css" crc="349040150" ref="complicated-dice"/>
+    <file name="master_contact-master.css" crc="4004150203" ref="contact"/>
+    <file name="index.css" crc="3762017568" ref="index"/>
+    <file name="snpahcat.css" crc="4075711868" ref="snpahcat"/>
+    <file name="releases.css" crc="3765416756" ref="releases"/>
+    <file name="contact.css" crc="4200472038" ref="contact"/>
+    <file name="complicated-dice.css" crc="4157567114" ref="complicated-dice"/>
+    <file name="complicated-dice-contact.css" crc="400587675" ref="complicated-dice-contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="loading.gif" crc="3815509949" seo="true" mt="1451873978000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:complicated-dice:snpahcat:complicated-dice-contact:releases"/>
+    <file name="museutils.js" crc="4232573551" ref="index:contact:complicated-dice:snpahcat:complicated-dice-contact:releases"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:complicated-dice:snpahcat:complicated-dice-contact:releases"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:contact:complicated-dice:snpahcat:complicated-dice-contact:releases"/>
+    <file name="webpro.js" crc="3770351119" ref="index:contact:snpahcat:complicated-dice-contact:releases"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:contact:snpahcat:complicated-dice-contact:releases"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:contact:snpahcat:complicated-dice-contact:releases"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:contact:snpahcat:complicated-dice-contact:releases"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:contact:complicated-dice:snpahcat:releases"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:contact:complicated-dice:snpahcat:complicated-dice-contact:releases"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:complicated-dice:snpahcat:complicated-dice-contact:releases"/>
+    <file name="require.js" crc="4234670167" ref="index:contact:complicated-dice:snpahcat:complicated-dice-contact:releases"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form-u4743.php" crc="3809659325" ref="contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="complicated-dice-contact"/>
+    <file name="form-u5521.php" crc="4125599825" ref="complicated-dice-contact"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="4194490556" ref="index"/>
+    <file name="img_1.jpg" crc="262797911" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:contact:snpahcat:complicated-dice-contact:releases"/>
+    <file name="img_3944_tonemapped.jpg" crc="4050548624" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="img_3947_8_9_tonemapped.jpg" crc="378570686" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="img_3950_1_2_tonemapped.jpg" crc="3970958079" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="img_3953_4_5_tonemapped.jpg" crc="423292086" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="img_3956_7_8_tonemapped.jpg" crc="4116774503" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="img_3959_60_61_tonemapped.jpg" crc="379983279" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:contact:complicated-dice-contact"/>
+    <file name="u7875-5.png" crc="514916079" ref="index"/>
+    <file name="u7875-5_2x.png" crc="119966900" ref="index"/>
+    <file name="u7602-7.png" crc="3834729983" ref="index"/>
+    <file name="u7602-7_2x.png" crc="3942436581" ref="index"/>
+    <file name="u7620-6.png" crc="421360453" ref="index"/>
+    <file name="u7620-6_2x.png" crc="364396614" ref="index"/>
+    <file name="u7649-8.png" crc="4213577436" ref="index"/>
+    <file name="u7649-8_2x.png" crc="523482399" ref="index"/>
+    <file name="14a63df593121538f23bc6a5a9d3d6c085d4f591156x157.jpg" crc="424331187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14a63df593121538f23bc6a5a9d3d6c085d4f591156x157_2x.jpg" crc="4108056991" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7655-10.png" crc="3869173464" ref="index"/>
+    <file name="u7655-10_2x.png" crc="3941990414" ref="index"/>
+    <file name="u7671-7.png" crc="4257587716" ref="index"/>
+    <file name="u7671-7_2x.png" crc="4136960588" ref="index"/>
+    <file name="u7674-12.png" crc="4232277504" ref="index"/>
+    <file name="u7674-12_2x.png" crc="4254918441" ref="index"/>
+    <file name="u7690-8.png" crc="4229061377" ref="index"/>
+    <file name="u7690-8_2x.png" crc="4238457068" ref="index"/>
+    <file name="u7693-10.png" crc="4004312954" ref="index"/>
+    <file name="u7693-10_2x.png" crc="3804635476" ref="index"/>
+    <file name="u7703-8.png" crc="396088290" ref="index"/>
+    <file name="u7703-8_2x.png" crc="477689122" ref="index"/>
+    <file name="u7706-12.png" crc="278900457" ref="index"/>
+    <file name="u7706-12_2x.png" crc="460697597" ref="index"/>
+    <file name="a4179467718_10155x156.jpg" crc="3874030255" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a4179467718_10155x156_2x.jpg" crc="534185399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artworks-01155x155.jpg" crc="149768425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artworks-01155x155_2x.jpg" crc="253881175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="album art 4-02154x155.jpg" crc="4157726632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="album art 4-02154x155_2x.jpg" crc="4157485827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7850-9.png" crc="3816373423" ref="index"/>
+    <file name="u7850-9_2x.png" crc="3946443859" ref="index"/>
+    <file name="u7851-11.png" crc="4195453925" ref="index"/>
+    <file name="u7851-11_2x.png" crc="389738069" ref="index"/>
+    <file name="artworks-01-01154x154.jpg" crc="121155028" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artworks-01-01154x154_2x.jpg" crc="4036045787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10961-7.png" crc="263692435" ref="index"/>
+    <file name="u10961-7_2x.png" crc="459596665" ref="index"/>
+    <file name="professordiceonline blue-01.png" crc="3959923473" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="professordiceonline blue-01_2x.png" crc="4124356199" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="u1508-4.png" crc="1535423" ref="index:snpahcat:releases"/>
+    <file name="u1508-4_2x.png" crc="4163560786" ref="index:snpahcat:releases"/>
+    <file name="u7786-4.png" crc="3812030886" ref="index:snpahcat:releases"/>
+    <file name="u7786-4_2x.png" crc="515348140" ref="index:snpahcat:releases"/>
+    <file name="u1523-4.png" crc="448425575" ref="index:snpahcat:releases"/>
+    <file name="u1523-4_2x.png" crc="4047246232" ref="index:snpahcat:releases"/>
+    <file name="u1514-4.png" crc="488957020" ref="index:snpahcat:releases"/>
+    <file name="u1514-4_2x.png" crc="223179889" ref="index:snpahcat:releases"/>
+    <file name="social media buttons blue-01.png" crc="4061138695" seo="true" ref="index:contact:complicated-dice:snpahcat:complicated-dice-contact:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="complicated-dice" alt=""/>
+      <caption webpage="complicated-dice-contact" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="social media buttons blue-01_2x.png" crc="3860911985" seo="true" ref="index:contact:complicated-dice:snpahcat:complicated-dice-contact:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="complicated-dice" alt=""/>
+      <caption webpage="complicated-dice-contact" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="social media buttons blue-02.png" crc="119526670" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="social media buttons blue-02_2x.png" crc="4012442347" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="social media buttons blue-03.png" crc="3978947462" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="social media buttons blue-03_2x.png" crc="4160202711" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="social media buttons blue-04.png" crc="266663741" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="social media buttons blue-04_2x.png" crc="55949226" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="social media buttons blue-05.png" crc="142880368" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="social media buttons blue-05_2x.png" crc="309693685" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="social media buttons blue-06.png" crc="4000380020" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="social media buttons blue-06_2x.png" crc="3787076170" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="social media buttons blue-07.png" crc="3900729622" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="social media buttons blue-07_2x.png" crc="358487637" seo="true" ref="index:contact:snpahcat:releases">
+      <caption webpage="index" alt=""/>
+      <caption webpage="releases" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="511738022" ref="contact"/>
+    <file name="u5845-4.png" crc="1535423" ref="contact"/>
+    <file name="u5845-4_2x.png" crc="4163560786" ref="contact"/>
+    <file name="u7766-4.png" crc="3812030886" ref="contact"/>
+    <file name="u7766-4_2x.png" crc="515348140" ref="contact"/>
+    <file name="u5862-4.png" crc="3777723212" ref="contact"/>
+    <file name="u5862-4_2x.png" crc="166901969" ref="contact"/>
+    <file name="u5858-4.png" crc="3999131692" ref="contact"/>
+    <file name="u5858-4_2x.png" crc="4003701622" ref="contact"/>
+    <file name="u10279-6.png" crc="312253609" ref="complicated-dice"/>
+    <file name="u10279-6_2x.png" crc="3841495278" ref="complicated-dice"/>
+    <file name="complicated dice-01.png" crc="367787209" seo="true" ref="complicated-dice:complicated-dice-contact">
+      <caption webpage="complicated-dice" alt=""/>
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="complicated dice-01_2x.png" crc="217482500" seo="true" ref="complicated-dice:complicated-dice-contact">
+      <caption webpage="complicated-dice" alt=""/>
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="u10910-9.png" crc="194054986" ref="complicated-dice"/>
+    <file name="u10910-9_2x.png" crc="3947224226" ref="complicated-dice"/>
+    <file name="u9520-4.png" crc="136177142" ref="complicated-dice"/>
+    <file name="u9520-4_2x.png" crc="4239215711" ref="complicated-dice"/>
+    <file name="u9650-4.png" crc="4094661949" ref="complicated-dice"/>
+    <file name="u9650-4_2x.png" crc="3765156960" ref="complicated-dice"/>
+    <file name="snapcode.png" crc="119106653" seo="true" ref="snpahcat">
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="snapcode_2x.png" crc="252571352" seo="true" ref="snpahcat">
+      <caption webpage="snpahcat" alt=""/>
+    </file>
+    <file name="u1640-4.png" crc="355184065" ref="snpahcat"/>
+    <file name="u1640-4_2x.png" crc="3947322267" ref="snpahcat"/>
+    <file name="13995459_10154307635796093_6735250317710503244_o.jpg" crc="246206683" seo="true" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="13923370_10154307635226093_6574799508809833017_o.jpg" crc="93052443" seo="true" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="13923691_10154307636016093_1285700199053430494_o.jpg" crc="4196024984" seo="true" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="13923860_10154307635841093_5514468174798506595_o.jpg" crc="428825867" seo="true" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="13925525_10154307635306093_7915367768964659391_o.jpg" crc="3839305985" seo="true" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="13962831_10154307635171093_1643291196583380962_o.jpg" crc="4213083271" seo="true" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="checkboxunchecked_2x.jpg" crc="4041065271" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover_2x.jpg" crc="421393327" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown_2x.jpg" crc="119826174" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="checkboxchecked_2x.jpg" crc="8340162" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover_2x.jpg" crc="461578639" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown_2x.jpg" crc="3782867047" ref="complicated-dice-contact">
+      <caption webpage="complicated-dice-contact" alt=""/>
+    </file>
+    <file name="album art 4-02.jpg" crc="189540551" seo="true" ref="releases">
+      <caption webpage="releases" alt=""/>
+    </file>
+    <file name="album art 4-02_2x.jpg" crc="3820835529" seo="true" ref="releases">
+      <caption webpage="releases" alt=""/>
+    </file>
+    <file name="a4179467718_10.jpg" crc="4096228689" seo="true" ref="releases">
+      <caption webpage="releases" alt=""/>
+    </file>
+    <file name="a4179467718_10_2x.jpg" crc="4246756315" seo="true" ref="releases">
+      <caption webpage="releases" alt=""/>
+    </file>
+    <file name="artworks-01-01.jpg" crc="3972248754" seo="true" ref="releases">
+      <caption webpage="releases" alt=""/>
+    </file>
+    <file name="artworks-01.jpg" crc="165257322" seo="true" ref="releases">
+      <caption webpage="releases" alt=""/>
+    </file>
+    <file name="artworks-01_2x.jpg" crc="340862933" seo="true" ref="releases">
+      <caption webpage="releases" alt=""/>
+    </file>
+    <file name="14a63df593121538f23bc6a5a9d3d6c085d4f591.jpg" crc="206884622" seo="true" ref="releases">
+      <caption webpage="releases" alt=""/>
+    </file>
+    <file name="14a63df593121538f23bc6a5a9d3d6c085d4f591_2x.jpg" crc="4006427148" seo="true" ref="releases">
+      <caption webpage="releases" alt=""/>
+    </file>
+    <file name="u7813-5.png" crc="42508892" ref="releases"/>
+    <file name="u7813-5_2x.png" crc="4103594151" ref="releases"/>
+    <file name="u8843-5.png" crc="468228784" ref="releases"/>
+    <file name="u8843-5_2x.png" crc="3776120526" ref="releases"/>
+    <file name="u10942-11.png" crc="50491885" ref="releases"/>
+    <file name="u10942-11_2x.png" crc="410623177" ref="releases"/>
+    <file name="u10945-11.png" crc="407272202" ref="releases"/>
+    <file name="u10945-11_2x.png" crc="43585859" ref="releases"/>
+    <file name="u10948-13.png" crc="182222018" ref="releases"/>
+    <file name="u10948-13_2x.png" crc="3880013988" ref="releases"/>
+    <file name="u10951-12.png" crc="366356333" ref="releases"/>
+    <file name="u10951-12_2x.png" crc="3930876144" ref="releases"/>
+    <file name="u10954-10.png" crc="4004853427" ref="releases"/>
+    <file name="u10954-10_2x.png" crc="329222383" ref="releases"/>
+  </folder>
+  <file name="index.html" crc="4277291222" seo="true" mt="1496697725345" redirect="true"/>
+  <file name="contact.html" crc="313974586" seo="true" mt="1496889628608" redirect="true"/>
+  <file name="complicated-dice.html" crc="4139738734" seo="true" mt="1496695358813" redirect="true"/>
+  <file name="snpahcat.html" crc="476995559" seo="true" mt="1496697725345" redirect="true"/>
+  <file name="complicated-dice-contact.html" crc="4267088537" seo="true" mt="1489713141258" redirect="true"/>
+  <file name="releases.html" crc="140473037" seo="true" mt="1496889226113" redirect="true"/>
+</manifest>
